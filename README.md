@@ -1,1 +1,1 @@
-# m207_summer_2018
+# mids 207 summer 2018 final project
