@@ -2,6 +2,8 @@
 
 ### Using Yelp User Review Data to Rate Businesses
 
+<img src="https://github.com/annesjyu/m207_summer_2018/blob/master/yelp.png"  alt="Yelp"/>
+
 **2017 Section 3**
 
 Group - <span style="color:orange">C</span>olors
