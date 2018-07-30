@@ -11,6 +11,7 @@
 
 **Postive review word cloud**
 <img src="https://github.com/annesjyu/m207_summer_2018/blob/master/word_cloud_goodwords.png"  alt="Positive Review Words" width="232" height="118" border="10" />
+
 **Negative review word cloud**
 <img src="https://github.com/annesjyu/m207_summer_2018/blob/master/word_cloud_badwords.png"  alt="Negative Review Words" width="232" height="118" border="10" />
 
