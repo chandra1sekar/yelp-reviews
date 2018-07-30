@@ -2,7 +2,7 @@
 
 ### Using Yelp User Review Data to Rate Businesses
 
-<img src="https://github.com/annesjyu/m207_summer_2018/blob/master/yelp.png"  alt="Yelp"/>
+<img src="https://github.com/annesjyu/m207_summer_2018/blob/master/yelp.png"  alt="Yelp" align="right"/>
 
 **2017 Section 3**
 
