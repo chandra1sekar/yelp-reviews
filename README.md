@@ -9,9 +9,9 @@
 ###### Jooyeon (Irene) Seo, jooyeon@ischool.berkeley.edu
 ###### Sijie (Anne) Yu, syu.anne@berkeley.edu
 
-<table border="0">
-  <tr><td>Positive Review Word Cloud</td><td>Negative Review Word Cloud</td></tr>
-  <tr>
+<table border="0" border-spacing="0">
+  <tr text-align="center" padding="0"><td>Positive Review Word Cloud</td><td>Negative Review Word Cloud</td></tr>
+  <tr text-align="center" padding="0">
   <td><img src="https://github.com/annesjyu/m207_summer_2018/blob/master/word_cloud_goodwords.png"  alt="Positive Review Words" width="232" height="118" border="10" /></td>
 <td><img src="https://github.com/annesjyu/m207_summer_2018/blob/master/word_cloud_badwords.png"  alt="Negative Review Words" width="232" height="118" border="10" /></td>
 </tr>
