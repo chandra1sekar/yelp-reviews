@@ -6,7 +6,7 @@
 
 **2017 Section 3**
 
-Group - <span style="color:orange">C</span>olors
+Group - <font color="red">C</font>olors
 
 - Chandra Sekar, chandra-sekar@ischool.berkeley.edu
 - Guangyu (Gary) Pei, guangyu.pei@ischool.berkeley.edu
