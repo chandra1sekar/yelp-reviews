@@ -18,12 +18,6 @@ Group - <span style="color:orange">C</span>olors
 - Project [proposal.](https://docs.google.com/document/d/1jhWY5XK59e1-4JVyaSsbmSr-3trdri7EP5v4-J37M8s/edit?usp=sharing)
 - Baseline submission [presentation.](https://docs.google.com/presentation/d/1JqkW_vOLSedKtO78mG0OJIiCuOe3DSiPACMZkozSo04/edit?usp=sharing)
 
-###### EDA of Review Words
+###### EDA of Review Words: Positive & Negative Review Word Cloud
 
-**Postive review word cloud**
-
-<img src="https://github.com/annesjyu/m207_summer_2018/blob/master/word_cloud_goodwords.png"  alt="Positive Review Words" width="232" height="118" border="10" />
-
-**Negative review word cloud**
-
-<img src="https://github.com/annesjyu/m207_summer_2018/blob/master/word_cloud_badwords.png"  alt="Negative Review Words" width="232" height="118" border="10" />
+<img src="https://github.com/annesjyu/m207_summer_2018/blob/master/word_cloud_goodwords.png"  alt="Positive Review Words" width="232" height="118" border="10" /><img src="https://github.com/annesjyu/m207_summer_2018/blob/master/word_cloud_badwords.png"  alt="Negative Review Words" width="232" height="118" border="10" />
