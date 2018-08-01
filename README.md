@@ -17,8 +17,8 @@ Group - <font color="red">C</font>olors
 > Our project’s primary concept is to utilize Yelp data (from kaggle) to rate new business, for example, restraurants. That is, we are going to get Yelp user review data, use review texts to predict review starts (1-5). When people talk about a new business, we can capture their words, fit into the model, then predict its rating, sort of understand its quality and potential. Since business categories are highly correlated to reviews we are going to focus on restraurants for now. This category is also the majority of reviews fall into.
 
 ###### Documentation
-- Project [proposal.](https://docs.google.com/document/d/1jhWY5XK59e1-4JVyaSsbmSr-3trdri7EP5v4-J37M8s/edit?usp=sharing)
-- Baseline submission [presentation.](https://docs.google.com/presentation/d/1kYvUqWeu3x1FUTxM9o_JM3VTBV0QUsnhex5ypqsQmZQ/edit?usp=sharing)
+- Project [proposal](https://docs.google.com/document/d/1jhWY5XK59e1-4JVyaSsbmSr-3trdri7EP5v4-J37M8s/edit?usp=sharing).
+- Baseline submission [presentation](https://docs.google.com/presentation/d/1kYvUqWeu3x1FUTxM9o_JM3VTBV0QUsnhex5ypqsQmZQ/edit?usp=sharing).
 - Final Project [presentation](https://docs.google.com/presentation/d/1ZE_KG4pLIiSRVtY9BvF1_qU3YeGGUtrajhj8ZN5meDs/edit?usp=sharing).
 
 ###### EDA of Review Words: Positive & Negative Review Word Cloud
