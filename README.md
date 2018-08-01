@@ -18,7 +18,7 @@ Group - <font color="red">C</font>olors
 
 ###### Documentation
 - Project [proposal.](https://docs.google.com/document/d/1jhWY5XK59e1-4JVyaSsbmSr-3trdri7EP5v4-J37M8s/edit?usp=sharing)
-- Baseline submission [presentation.](https://docs.google.com/presentation/d/1JqkW_vOLSedKtO78mG0OJIiCuOe3DSiPACMZkozSo04/edit?usp=sharing)
+- Baseline submission [presentation.](https://docs.google.com/presentation/d/1kYvUqWeu3x1FUTxM9o_JM3VTBV0QUsnhex5ypqsQmZQ/edit?usp=sharing)
 
 ###### EDA of Review Words: Positive & Negative Review Word Cloud
 
