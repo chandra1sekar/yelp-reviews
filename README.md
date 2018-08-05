@@ -14,7 +14,7 @@ Group - <font color="red">C</font>olors
 - Sijie (Anne) Yu, syu.anne@berkeley.edu
 
 ###### Objective
-> Our project’s primary concept is to utilize Yelp data (from kaggle) to rate new business, for example, restraurants. That is, we are going to get Yelp user review data, use review texts to predict review starts (1-5). When people talk about a new business, we can capture their words, fit into the model, then predict its rating, sort of understand its quality and potential. Since business categories are highly correlated to reviews we are going to focus on restraurants for now. This category is also the majority of reviews fall into.
+> Our project’s primary concept is to utilize Yelp data (from kaggle) to predict user's attitude toward new business, for example, restraurants. That is, we are going to get Yelp user review data, use review texts to predict reviewer's attitude (namely postive or negative) toward business. When people talk about a new business, we can capture their words, fit into the model, then predict their attitude toward the business, have some quantitative understanding its quality via sentiment scores and thus evaluate its potential accordingly. Since business categories are highly correlated to reviews we are going to focus on bars and restraurants for now. This category is also the majority of reviews fall into.
 
 ###### Documentation
 - Project [proposal](https://docs.google.com/document/d/1jhWY5XK59e1-4JVyaSsbmSr-3trdri7EP5v4-J37M8s/edit?usp=sharing).
