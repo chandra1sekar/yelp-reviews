@@ -9,7 +9,7 @@
 Group - <font color="red">C</font>olors
 
 - Chandra Sekar, chandra-sekar@ischool.berkeley.edu
-- Guangyu (Gary) Pei, guangyu.pei@ischool.berkeley.edu
+- Guangyu (Gary) Pei, guangyu.pei@berkeley.edu
 - Jooyeon (Irene) Seo, jooyeon@ischool.berkeley.edu
 - Sijie (Anne) Yu, syu.anne@berkeley.edu
 
