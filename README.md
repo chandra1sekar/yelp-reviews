@@ -21,6 +21,9 @@ Group - <font color="red">C</font>olors
 - Baseline submission [presentation](https://docs.google.com/presentation/d/1kYvUqWeu3x1FUTxM9o_JM3VTBV0QUsnhex5ypqsQmZQ/edit?usp=sharing).
 - Final Project [presentation](https://docs.google.com/presentation/d/1ZE_KG4pLIiSRVtY9BvF1_qU3YeGGUtrajhj8ZN5meDs/edit?usp=sharing).
 
+###### Jupyter Notebook
+[yelp_review_classification.ipynb](yelp_review_classification.ipynb)
+
 ###### EDA of Review Words: Positive & Negative Review Word Cloud
 
 <img src="https://github.com/annesjyu/m207_summer_2018/blob/master/word_cloud_goodwords.png"  alt="Positive Review Words" width="232" height="118" border="10" /><img src="https://github.com/annesjyu/m207_summer_2018/blob/master/word_cloud_badwords.png"  alt="Negative Review Words" width="232" height="118" border="10" />
